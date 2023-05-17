@@ -8,11 +8,9 @@
   - [osTicket: Ticket Lifecycle Examples](https://github.com/Dhorton93/ticket-lifecycle)
 
 
-<h2>🤳Connect with me:</h2>
 
-[<img align="left" alt="Deanna | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="Deanna | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="Deanna | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+
+
 
 [instagram]: https://www.instagram.com/Deanna
 [linkedin]: https://linkedin.com/in/Deanna 
